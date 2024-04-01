@@ -9,7 +9,9 @@
 
 4. Disfruta de tu Compañia.
 
-5. Desconectarse del trabajo los fines de semana.
+5. Desconectarse del trabajo los fines de semana. 
+
+
 
 # Lo importante
 
@@ -42,9 +44,22 @@
 
 5. Se tolerante con los demas y contigo portate estricto.
 
-6. el obstaculo es el camino al impedimento ala accion. Avanza la accion.
+6. el obstaculo es el camino al impedimento ala accion. Avanza ala accion.
 
 7. Levantate temprano.
+
+8. Escucha antes de hablar, Por eso dicen que tenemos dos oidos y una boca.
+
+9. Gana antes de gastar, No te endeudes para impresionar a los demas.
+
+10. Piensa antes de escribir, Ser impulsivo rara vez sale bien.
+
+11. Intenta antes de rendirte, El fracaso no es el opuesto del exito, solo es parte del proceso.
+
+12. Vive antes de morir, No existe dolor mas profundo que un  Hubiera.
+
+13. No dejes que tu soledad te haga regresar con la gente toxica que estuvo en tu vida, No deberias de beber veneno solamente porque tienes sed.
+
 
 
 Propositos estoicos para este año.
@@ -127,3 +142,13 @@ Aumenta tu valor externo
 # Autoconocimiento
 
 **Quien soy yo?**
+
+# Leyes del espejo
+
+1. todo lo que me molesta, irrita, enoja o quiero cambiar de las otras personas, existe tambien dentro de mi.
+
+2. Todo lo que el otro me critica, combate o juzga, si me molesta o me hiere, esta reprimido dentro de mi y me toca a mi trabajarlo.
+
+3. Todo lo que el otro me critica, juzga o quiere cambiar de mi, si a mi no me afecta, le pertenece a el.
+
+4. Todo lo que me gusta del otro, que amo en el, tambien esta dentro de mi, yo reconozco mis cualidades en otros.
