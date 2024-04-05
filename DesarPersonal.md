@@ -152,3 +152,76 @@ Aumenta tu valor externo
 3. Todo lo que el otro me critica, juzga o quiere cambiar de mi, si a mi no me afecta, le pertenece a el.
 
 4. Todo lo que me gusta del otro, que amo en el, tambien esta dentro de mi, yo reconozco mis cualidades en otros.
+
+# El método 5W2H es una herramienta de gestión que se utiliza para planificar y ejecutar acciones de manera efectiva. Las siglas se refieren a las preguntas clave que se deben responder al planificar un proyecto o una tarea:
+
+What (¿Qué?)  = Que quiero ser
+Why (¿Por qué?) = Porque lo quiero aser
+Who (¿Quién?) = Quien lo va aser
+When (¿Cuándo?) = Cuando lo are 
+Where (¿Dónde?) = En Donde lo are
+How (¿Cómo?) = Como lo are
+How much (¿Cuánto?) = Cuanto tiempo
+
+
+# Al utilizar el método 5W2H, puedes asegurarte de tener claridad en todos los aspectos relevantes de una tarea o proyecto, lo que te ayudará a tomar decisiones informadas y a ejecutar de manera más eficiente.
+
+
+# Con metas claras y un plan de accion es mas facil alcansar tu objetivo.
+
+# La vida personal y profecional estan conectadas.
+
+# Es necesario:
+
+1. Desarrollar el autoconocimiento.
+
+2. Declarar su vision profesional.
+
+3. Crear Metas.
+
+4. Preparar un plan de accion.
+
+5. Retrospectiva.
+
+6. Celebrar cada conquista.
+
+
+# Retrospectiva
+
+# Puedes aplicar la retrospectiva en tu vida personal de la siguiente manera:
+
+
+1. Establece un momento regular: Elige un día y hora específicos en los que puedas dedicar tiempo a reflexionar sobre tu vida y tus acciones.
+
+2. Define tus objetivos: Antes de la retrospectiva, identifica qué aspectos de tu vida quieres mejorar o en qué áreas te gustaría crecer.
+
+3. Reflexiona sobre tu semana: Haz una revisión de los eventos y acciones de la semana pasada. Identifica qué situaciones te han      hecho sentir bien, qué te ha generado estrés o qué podrías haber hecho de manera diferente.
+
+4. Identifica patrones: Busca tendencias en tu comportamiento o en los resultados que has obtenido. ¿Hay algo que se repite constantemente? ¿Qué cosas te han llevado al éxito o al fracaso?
+
+5. Establece acciones de mejora: Basándote en tus reflexiones, define acciones concretas que puedas tomar para mejorar en las áreas que identificaste. Establece metas alcanzables y un plan de acción para lograrlas.
+
+6. Evalúa tu progreso: En la próxima retrospectiva, revisa las acciones que tomaste y evalúa si te acercaron a tus objetivos. Ajusta tu plan según sea necesario y continúa el ciclo de mejora continua.
+
+# Al aplicar la retrospectiva en tu vida personal, podrás ser más consciente de tus acciones, identificar áreas de mejora y trabajar de manera más efectiva hacia tus metas y objetivos.
+
+# Autoconocimiento
+
+# Desarrollar el autoconocimiento es un proceso personal que implica explorar tus pensamientos, emociones, fortalezas, debilidades, valores y creencias. Aquí te dejo algunas sugerencias para ayudarte a desarrollar tu autoconocimiento:
+
+1. Reflexiona sobre ti mismo: Tómate el tiempo para reflexionar sobre quién eres, qué te motiva, cuáles son tus metas y qué te hace feliz. Puedes llevar un diario para registrar tus pensamientos y emociones.
+
+2. Hazte preguntas profundas: Cuestiona tus creencias, valores y comportamientos. Pregúntate por qué actúas de cierta manera y qué puedes hacer para mejorar.
+
+3. Busca feedback: Pide a amigos, familiares o colegas que te den su opinión sobre ti. Escucha con mente abierta y reflexiona sobre lo que te dicen.
+
+4. Realiza actividades de autoexploración: Puedes practicar la meditación, el yoga, la escritura creativa o cualquier otra actividad que te ayude a conectar contigo mismo.
+
+5. Aprende de tus experiencias: Analiza tus éxitos y fracasos para identificar tus fortalezas y áreas de mejora. Utiliza esas lecciones para crecer y evolucionar.
+
+6. Busca ayuda profesional: Si sientes que necesitas orientación adicional, considera buscar la ayuda de un terapeuta, coach o consejero que te pueda guiar en tu proceso de autoconocimiento.
+
+# Recuerda que el autoconocimiento es un viaje continuo y que requiere tiempo, paciencia y dedicación. 
+
+
+# Cada Profesional tiene que ser el protagonista de su carrera y no esperar que las empresas realicen sus objetivos. 
