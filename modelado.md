@@ -1,46 +1,49 @@
 # El Lenguaje Unificado de Modelado (UML) es una herramienta esencial para la arquitectura y la ingeniería de software y sistemas.
-    Fue creado como una lengua franca para los desarrolladores,
-    con el objetivo de simplificar y unificar los lenguajes de modelación.
-    Aquí tienes todo lo que necesitas saber sobre el UML:
+Fue creado como una lengua franca para los desarrolladores,
+con el objetivo de simplificar y unificar los lenguajes de modelación.
+Aquí tienes todo lo que necesitas saber sobre el UML:
 
 # ¿Qué es y para qué sirve UML?
 
 # Antes de UML, no existía un lenguaje estandarizado para el modelado de software. 
 
 # UML fue presentado en 1996 por Ivar Jacobson, Grady Booch y James Rumbaugh, 
-    tres pioneros en el campo del modelado
 
-    UML establece un conjunto de estándares y protocolos para el modelado de sistemas. 
-    Es ampliamente utilizado en todo el mundo.
+tres pioneros en el campo del modelado
 
-    Sirve para comunicar sistemas complejos a clientes y stakeholders 
-    sin un background técnico, ya que no utiliza código.
+UML establece un conjunto de estándares y protocolos para el modelado de sistemas. 
+Es ampliamente utilizado en todo el mundo.
 
-    Facilita la colaboración entre equipos de desarrollo al proporcionar una notación unificada.
+Sirve para comunicar sistemas complejos a clientes y stakeholders 
+sin un background técnico, ya que no utiliza código.
+
+Facilita la colaboración entre equipos de desarrollo al proporcionar una notación unificada.
 
 # Características y ventajas del UML:
 
 # Dinamismo: UML se basa en notaciones y diagramas, lo que lo hace perfecto 
-    para sistemas de software, tanto simples como complejos.
+
+para sistemas de software, tanto simples como complejos.
 
 # Claridad: Su notación simple y unificada evita ambigüedades y confusiones.
 
-# Facilidad: Los diagramas son comprensibles para usuarios comunes 
-    lo que facilita la coordinación entre equipos.
+# Facilidad: Los diagramas son comprensibles para usuarios comunes
+
+lo que facilita la coordinación entre equipos.
 
 # Cómo utilizar UML en un programa de software:
 
-    Configuración del proyecto: Comienza configurando el proyecto de modelado.
+Configuración del proyecto: Comienza configurando el proyecto de modelado.
 
-    Manipulación del modelo: Aprende a manipular los elementos del modelo.
+Manipulación del modelo: Aprende a manipular los elementos del modelo.
 
-    Desarrollo de modelos específicos:
+Desarrollo de modelos específicos:
 
-    Modelo de caso de uso: Describe las interacciones entre actores y el sistema.
+Modelo de caso de uso: Describe las interacciones entre actores y el sistema.
 
-    Modelo de análisis de dominio: Explora los conceptos clave del dominio del problema.
+Modelo de análisis de dominio: Explora los conceptos clave del dominio del problema.
 
-    Modelo de diseño arquitectónico: Define la estructura y componentes de la aplicación.
+ Modelo de diseño arquitectónico: Define la estructura y componentes de la aplicación.
 
 # En resumen, el UML es una herramienta poderosa para diseñar y comunicar sistemas de software. 
 
@@ -71,27 +74,27 @@
 
 # Modelo de Secuencia:
 
-    Crea un diagrama de secuencia para mostrar cómo interactúan las clases en diferentes escenarios.
+Crea un diagrama de secuencia para mostrar cómo interactúan las clases en diferentes escenarios.
 
-    Por ejemplo, puedes representar cómo un usuario busca un libro y lo presta.
+Por ejemplo, puedes representar cómo un usuario busca un libro y lo presta.
 
 # Modelo de Estado:
 
-    Si es necesario, crea un diagrama de estado para representar los estados y transiciones de un objeto.
+Si es necesario, crea un diagrama de estado para representar los estados y transiciones de un objeto.
 
-    Por ejemplo, el estado de un libro podría ser “Disponible”, “Prestado” o “En reparación”.
+Por ejemplo, el estado de un libro podría ser “Disponible”, “Prestado” o “En reparación”.
 
 # Implementación:
 
-    Utiliza los modelos UML como guía para implementar el sistema en el lenguaje de programación de tu elección (por ejemplo, Java, Python, etc.).
+Utiliza los modelos UML como guía para implementar el sistema en el lenguaje de programación de tu elección (por ejemplo, Java, Python, etc.).
 
-    Crea las clases, métodos y relaciones según lo definido en los diagramas.
+Crea las clases, métodos y relaciones según lo definido en los diagramas.
 
 # Pruebas y Validación:
 
-    Realiza pruebas para asegurarte de que el sistema funcione correctamente.
+Realiza pruebas para asegurarte de que el sistema funcione correctamente.
 
-    Verifica que los casos de uso se cumplan y que las clases se comporten según lo esperado.
+Verifica que los casos de uso se cumplan y que las clases se comporten según lo esperado.
 
 # Recuerda que este es solo un ejemplo básico. En proyectos más grandes, también puedes incluir otros modelos UML como el de actividades, componentes y despliegue. 
 

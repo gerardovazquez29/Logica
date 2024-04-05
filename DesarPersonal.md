@@ -31,7 +31,7 @@
 
 
 
-# Reglas Estoicas de Marco Aurelio
+# Reglas Estoicas
 
 
 1. No te quejes , Ni de ti mismo
@@ -155,13 +155,13 @@ Aumenta tu valor externo
 
 # El método 5W2H es una herramienta de gestión que se utiliza para planificar y ejecutar acciones de manera efectiva. Las siglas se refieren a las preguntas clave que se deben responder al planificar un proyecto o una tarea:
 
-What (¿Qué?)  = Que quiero ser
-Why (¿Por qué?) = Porque lo quiero aser
-Who (¿Quién?) = Quien lo va aser
-When (¿Cuándo?) = Cuando lo are 
-Where (¿Dónde?) = En Donde lo are
-How (¿Cómo?) = Como lo are
-How much (¿Cuánto?) = Cuanto tiempo
+1. What (¿Qué?)  = Que quiero ser
+2. Why (¿Por qué?) = Porque lo quiero aser
+3. Who (¿Quién?) = Quien lo va aser
+4. When (¿Cuándo?) = Cuando lo are 
+5. Where (¿Dónde?) = En Donde lo are
+6. How (¿Cómo?) = Como lo are
+7. How much (¿Cuánto?) = Cuanto tiempo
 
 
 # Al utilizar el método 5W2H, puedes asegurarte de tener claridad en todos los aspectos relevantes de una tarea o proyecto, lo que te ayudará a tomar decisiones informadas y a ejecutar de manera más eficiente.
@@ -204,6 +204,8 @@ How much (¿Cuánto?) = Cuanto tiempo
 6. Evalúa tu progreso: En la próxima retrospectiva, revisa las acciones que tomaste y evalúa si te acercaron a tus objetivos. Ajusta tu plan según sea necesario y continúa el ciclo de mejora continua.
 
 # Al aplicar la retrospectiva en tu vida personal, podrás ser más consciente de tus acciones, identificar áreas de mejora y trabajar de manera más efectiva hacia tus metas y objetivos.
+
+
 
 # Autoconocimiento
 
