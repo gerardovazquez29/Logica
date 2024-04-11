@@ -227,3 +227,60 @@ Aumenta tu valor externo
 
 
 # Cada Profesional tiene que ser el protagonista de su carrera y no esperar que las empresas realicen sus objetivos. 
+
+# habilidades blandas que  se aplican en el entorno laboral:
+
+1. Capacidad de resolver problemas complejos: Un ingeniero de software que es capaz de encontrar soluciones creativas para problemas de programación difíciles.
+
+2. Pensamiento crítico: Un analista de datos que puede evaluar de manera objetiva la información y tomar decisiones fundamentadas en evidencia.
+
+3. Colaboración: Un equipo de desarrollo de productos que trabaja en conjunto para crear un nuevo producto, compartiendo ideas y conocimientos.
+
+4. Inteligencia emocional: Un líder de equipo que es capaz de manejar conflictos entre sus subordinados de manera empática y constructiva.
+
+5. Flexibilidad cognitiva: Un profesional de marketing que puede adaptar rápidamente su estrategia a cambios en el mercado o en las preferencias del consumidor.
+
+
+# Habilidades blandas principales que el mercado busca en las personas.
+
+# Que es lo que me motiva
+
+1. buscar constantemente oportunidades de aprendizaje.
+
+2. tener un sueño o inspiracion personal.
+
+3. establecer el objetivo de llevar un estilo de vida saludable.
+
+# las 10 skills
+
+1. Resolucion de problemas.
+
+2. Pensamiento critico.
+
+3. Creatividad.
+
+4. Colaboracion.
+
+5. Inteligencia emocional.
+
+6. Juicio y toma de decisiones.
+
+7. Orientacion al servicio.
+
+8. Negociacion.
+
+9. Flexibilidad cognitiva.
+
+10. Gestion de personas.
+
+
+# El "lifelong learning" o aprendizaje continuo
+
+1. Adaptación al Cambio: En un entorno en constante evolución, el aprendizaje continuo permite adaptarse a las nuevas tecnologías, tendencias y demandas laborales. Permite mantenerse relevante en un mercado laboral en constante cambio.
+
+2. Desarrollo Personal y Profesional: Aprender nuevas habilidades y conocimientos enriquece tu vida personal y profesional. Puedes mejorar tus competencias actuales, explorar nuevas áreas de interés y potenciar tus oportunidades de carrera.
+
+3. Mantener la Curiosidad: El aprendizaje continuo fomenta la curiosidad y la mente abierta. Te anima a explorar y cuestionar el mundo que te rodea, lo que contribuye a un pensamiento crítico y creativo.
+
+4. Prevención del Estancamiento: El estancamiento puede llevar a la rutina y la apatía. El aprendizaje continuo te desafía y te mantiene mentalmente activo, lo que ayuda a prevenir la sensación de aburrimiento.
+
